@@ -36,6 +36,7 @@ This repository contains a full pipeline for semantic segmentation on a COCO 201
 
 Although the project was developed in an environment where required packages were pre-installed, the `pyproject.toml` is provided to comply with the assignment's `uv` dependency management requirement.
 
-
+⚠️ Note on Reproducibility:
+This project uses random sampling for dataset creation and visualization. While the overall behavior and performance will remain consistent, exact metrics (IoU, F1) and visual samples may vary slightly across runs unless a random seed is fixed.
 
 
