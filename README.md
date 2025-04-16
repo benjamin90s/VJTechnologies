@@ -1,5 +1,5 @@
 # VJTechnologies
-# 🔍 COCO Subset Segmentation: Dataset Prep & U-Net Training
+# COCO Subset Segmentation: Dataset Prep & U-Net Training
 
 This repository contains a full pipeline for semantic segmentation on a COCO 2017 subset, covering:
 
@@ -8,7 +8,7 @@ This repository contains a full pipeline for semantic segmentation on a COCO 201
 
 ---
 
-## 📦 Contents
+## Contents
 
 - `VJT.ipynb`  
   - Downloads & extracts COCO 2017 images and annotations  
