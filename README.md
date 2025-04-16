@@ -20,6 +20,14 @@ This repository contains a full pipeline for semantic segmentation on a COCO 201
 
 ---
 
+## Training Metrics
+
+Training and validation losses were monitored using TensorBoard.
+
+- Screenshots of the TensorBoard scalar plots are provided.
+- The raw scalar data exported from TensorBoard is also available as `train_loss.csv` & 'val_loss.csv' file.
+
+
 ## Tested Environment
 
 -Python: 3.8.10
