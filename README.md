@@ -20,9 +20,17 @@ This repository contains a full pipeline for semantic segmentation on a COCO 201
 
 ---
 
-## Requirements
+## Tested Environment
 
-- Python 3.8.10
+-Python: 3.8.10
+-matplotlib: 3.7.5
+-numpy: 1.24.3
+-Pillow: 10.4.0
+-requests: 2.32.3
+-torch: 2.4.0+cu121
+-torchvision: 0.19.1+cu121
+-tqdm: 4.66.5
+-pycocotools: 2.0
 
 
 
