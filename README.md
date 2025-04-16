@@ -32,5 +32,10 @@ This repository contains a full pipeline for semantic segmentation on a COCO 201
 -tqdm: 4.66.5
 -pycocotools: 2.0
 
+## 🔁 Reproducibility (UV Setup)
+
+Although the project was developed in an environment where required packages were pre-installed, the `pyproject.toml` is provided to comply with the assignment's `uv` dependency management requirement.
+
+
 
 
